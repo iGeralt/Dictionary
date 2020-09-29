@@ -1,5 +1,5 @@
 # Dictionary
  
-*To use dictionary open Code folder and do :
+* To use dictionary open Code folder and do :
 >./main.
-*Password for admin is groupd.
+* Password for admin is groupd.
